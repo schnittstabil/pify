@@ -17,6 +17,7 @@
     "optimization-test": "node --allow-natives-syntax optimization-test.js"
   },
   "files": [
+    "executor.js",
     "index.js"
   ],
   "keywords": [
